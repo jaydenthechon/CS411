@@ -15,3 +15,5 @@ class AnimalManager:
 
     def remove_animal(self, animal_id: int) -> None:
         pass
+
+
